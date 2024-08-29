@@ -1,11 +1,11 @@
-WebDonut is an open source browser made fully on python.
+WebDonut — браузер с открытым исходным кодом, полностью созданный на Python.
 
-To edit code: 1: download LAST release 2: download WebDonut.py 3: install needed libraries (PyQt5, PyQtWebEngine) Now open python IDE and edit the Webdonut.py/image files!
+Чтобы отредактировать код: 1: скачайте ПОСЛЕДНЮЮ версию 2: скачайте WebDonut.py 3: установите необходимые библиотеки (PyQt5, PyQtWebEngine) Теперь откройте IDE Python и отредактируйте файлы Webdonut.py/image!
 
-If you want to make an update/idea send the updated code/idea to this email: webdonut04@gmail.com WARNING: 1: all codes will be tested on Virtual Machine, so don't try to send viruses. 2: send your code in folder with .py file NOT .exe, or else update will not be accepted. 3: all updates/ideas will be checked once 3 weeks.
+Если вы хотите сделать обновление/идею, отправьте обновленный код/идею на этот адрес электронной почты: webdonut04@gmail.com ВНИМАНИЕ: 1: все коды будут проверены на виртуальной машине, поэтому не пытайтесь рассылать вирусы. 2: отправьте свой код в папку с файлом .py, а не в .exe, иначе обновление не будет принято. 3: все обновления/идеи будут проверяться раз в 3 недели.
 
-Known errors: Some websites may cause browser to crash
+Известные ошибки: некоторые веб-сайты могут вызывать сбой браузера.
 
-Release Strawberry (1.0) - https://modsfire.com/s60x8mB0c4XFbgE
+Релиз Strawberry (1.0) - https://modsfire.com/s60x8mB0c4XFbgE
 
-Release Cherry (2.0) - https://modsfire.com/NE7q5L4OdkbSYDp
+Релиз Cherry (2.0) - https://modsfire.com/NE7q5L4OdkbSYDp
